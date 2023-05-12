@@ -129,3 +129,8 @@ input[type=submit]:hover {
   background: #bb0000;
   color: white;
 }
+
+.iframe{
+display:flex;
+flex-direction: column;
+}
